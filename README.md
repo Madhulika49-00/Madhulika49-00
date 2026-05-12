@@ -17,17 +17,14 @@
 
 # 💻 Tech Stack:
 
-![SQL](https://img.shields.io/badge/sql-025E8C?style=for-the-badge&logo=database&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![AI Tools](https://img.shields.io/badge/AI-Tools-blueviolet?style=for-the-badge)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Tools-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF7F50?style=for-the-badge" />
+</p>
 
 ---
 
@@ -47,5 +44,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Madhulika49-00&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhulika49-00&theme=tokyonight&hide_border=false&layout=compact)
+
+
 
 
